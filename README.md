@@ -38,7 +38,7 @@ If you are having problems running `npm start` on Windows you may need to run th
 
 Initial screen shows a list of decks with options to create, study, view, or delete a deck
 
-(screenshots/home.png)
+![home page](screenshots/home.png)
 
 allows the user to study the cards from a specified deck
 
