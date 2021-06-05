@@ -51,13 +51,11 @@ When the user clicks the "Delete" button, a warning message is shown and the use
 <img src="screenshots/delete.png" alt="drawing" width="400"/>
 
 
-### Paused Session Screen
+### Study
 
-If the user clicks the "pause" button, "paused" appears below the time remaining.
+The Study screen is displayed at `/decks/:deckId/study`
 
-< Paused Session Screen img >
-
-The session timer shows the type of session, either "Focusing" or "On Break", the total duration of the session, the time remaining, and a progress bar showing how much of the session is complete.
+<img src="screenshots/study.png" alt="drawing" width="400"/>
 
 ### Stopping a session
 
