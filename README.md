@@ -31,23 +31,16 @@ To stop the servers from running, you can press `Ctrl + C`
 
 If you are having problems running `npm start` on Windows you may need to run the React client and server in separate terminals. Open a terminal and run `npm run start:react` to start the react application. Open another terminal and run `npm run start:server` to run the server.
 
-## Quick-start : Usage Overview
-
-- Set the focus duration (default to 25 minutes, no less than 5 or more than 60).
-- Set the break duration (default to 5 minutes, no less than 1 or more than 15).
-- When the user clicks the "play" button, the timer starts.
-- When the focus time expires, an alarm plays and then the break timer starts.
-- When the break time expires, the alarm plays again and then the focus timer starts.
 
 ## Detailed instructions for use
 
 ### Initial Screen
 
-The initial screen lets the user set the length of the focus and break and break sessions.
+Initial screen shows a list of decks with options to create, study, view, or delete a deck
 
-< Initial Screen img >
+(screenshots/home.png)
 
-The "stop" button is disabled on the initial screen because the user has not yet started the timer.
+allows the user to study the cards from a specified deck
 
 When the user clicks the "play" button, the timer will always start a new focus session.
 
