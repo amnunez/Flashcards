@@ -57,7 +57,6 @@ The Study screen is displayed at `/decks/:deckId/study`
 
 <img src="screenshots/study.png" alt="study" width="400"/>
 
-- There is a breadcrumb navigation bar with links to home /, followed by the name of the deck being studied and finally the text Study (e.g., Home/Rendering In React/Study).
 - The deck title (i.e., "Study: Rendering in React" ) is shown on the screen.
 - Cards are shown one at a time, front-side first.
 - A button at the bottom of each card "flips" it to the other side.
