@@ -38,11 +38,11 @@ If you are having problems running `npm start` on Windows you may need to run th
 
 Initial screen shows a list of decks with options to create, study, view, or delete a deck
 
-<img src="screenshots/home.png" alt="drawing" width="200"/>
+<img src="screenshots/home.png" alt="drawing" width="400"/>
 
-allows the user to study the cards from a specified deck
-
-When the user clicks the "play" button, the timer will always start a new focus session.
+- Clicking the “Study” button brings the user to the Study screen.
+- Clicking the “Edit” button brings the user to the Edit Deck screen.
+- Clicking the “Delete” button shows a warning message before deleting the deck
 
 ### Active Session Screen
 After the user clicks the "play" button, the buttons to change the focus and break duration are disabled, and the session timer appears.
