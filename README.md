@@ -44,12 +44,12 @@ Initial screen shows a list of decks with options to create, study, view, or del
 - Clicking the “Edit” button brings the user to the Edit Deck screen.
 - Clicking the “Delete” button shows a warning message before deleting the deck
 
-### Active Session Screen
-After the user clicks the "play" button, the buttons to change the focus and break duration are disabled, and the session timer appears.
+### Delete Deck prompt
 
-< Active Session Screen img>
+When the user clicks the "Delete" button, a warning message is shown and the user can click "OK" or "Cancel". If the user clicks "OK", the deck is deleted and the deleted deck is no longer visible on the Home screen.
 
-The session timer shows the type of session, either "Focusing" or "On Break", the total duration of the session, the time remaining, and a progress bar showing how much of the session is complete.
+<img src="screenshots/delete.png" alt="drawing" width="400"/>
+
 
 ### Paused Session Screen
 
